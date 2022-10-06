@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jesus Farias 😁
 
--Atualmente estou migrando de carreira para a área da tecnologia, estudo Engenharia de Software na Estácio, concluí o Bootcamp da Generation Brasil como Fullstack Developer .NET e estou cursando o Bootcamp Java Developer pela Digital Innovation One..
+-Atualmente estou migrando de carreira para a área da tecnologia, estudo Engenharia de Software na Estácio, concluí o Bootcamp da Generation Brasil como Fullstack Developer .NET e estou cursando o Bootcamp Java Developer pela Digital Innovation One.
 <div align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusfariasdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusfariasdev&layout=compact&langs_count=7&theme=tokyonight"/>
