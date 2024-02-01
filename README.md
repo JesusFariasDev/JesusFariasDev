@@ -4,7 +4,7 @@ I'm Jesus da Silva Farias, I'm 26 years old and I'm passionate about technology,
 ****
 <div align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusfariasdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusfariasdev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusfariasdev&layout=compact&langs_count=6&theme=tokyonight"/>
   
 </div>
 
