@@ -1,6 +1,6 @@
 ### Software Developer
 
-I'm Jesus da Silva Farias, I'm 26 years old and I'm passionate about technology, I have 1 year of experience as a Software Developer focused on C# (ASPNET) and Angular. I have practical experience in implementing microservices and quickly resolving technical problems. I am currently studying Software Engineering at Universidade Estácio de Sá. Skills such as proactivity, teamwork, personal responsibility and quick learning are my strong points. I am constantly learning and open to discovering and applying new technologies.
+I'm Jesus da Silva Farias, I'm passionate about technology, I have 1 year of experience as a Software Developer focused on C# (ASPNET) and Angular. I have practical experience in implementing microservices and quickly resolving technical problems. I am currently studying Software Engineering at Universidade Estácio de Sá. Skills such as proactivity, teamwork, personal responsibility and quick learning are my strong points. I am constantly learning and open to discovering and applying new technologies.
 ****
 <div align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jesusfariasdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
